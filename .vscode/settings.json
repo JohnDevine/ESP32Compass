@@ -1,0 +1,16 @@
+{
+    "idf.currentSetup": "/Users/johndevine/.espressif/v6.1/esp-idf",
+    "idf.openOcdConfigs": [
+      "board/esp32-bridge.cfg"
+    ],
+    "idf.port": "/dev/tty.usbserial-0001",
+    "idf.customExtraVars": {
+      "IDF_TARGET": "esp32"
+    },
+    "clangd.path": "/Users/johndevine/.espressif/tools/esp-clangd/esp-21.1.3_20260408/esp-clangd/bin/clangd",
+    "clangd.arguments": [
+      "--background-index",
+      "--query-driver=**",
+      "--compile-commands-dir=/Volumes/Work02/Work01/Developer/ESP32Projects/ESP32Compass/build"
+    ]
+}
